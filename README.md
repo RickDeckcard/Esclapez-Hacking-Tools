@@ -1,5 +1,5 @@
 # Esclapez-Hacking-Tools
-Esclapez-Ethical-Hacking-Tools
+Esclapez-Ethical-Hacking-Tools (PDF INSTRUCTIONS IN SPANISH AND ENGLISH) PASSWORD TO OPEN FILES: esclapez
 
 Esto es un software desarrollado en Python 3 y para ejecutar en KALI LINUX.
 
@@ -34,3 +34,9 @@ ARCHIVO ZIP CON LOS 3 FICHEROS
 
 MD5: A041C4B922B0D316702998FA52439097
 SHA1: 65E002CD2E292A82B570DA005D47CED36E50AFF1
+
+The fichero zip contiene todos los ficheros.
+The zip file enclose all the files.
+
+Para ejecutar desde línea de comandos ./esclapez
+To exe the program in the terminal type ./esclapez
